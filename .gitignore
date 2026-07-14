@@ -1,0 +1,40 @@
+# 预训练模型（体积大，约392MB）
+pretrained/
+
+# 预处理后的数据
+data/processed/
+
+# 训练日志
+logs/
+
+# 模型文件
+models/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# TensorBoard缓存
+*.tfevents.*
+
+# 临时文件
+*.tmp
+*.temp
